@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityLifeCycle</string>
+    <string name="textViewMainTitle">First Activity</string>
+    <string name="buttonFirst">first button</string>
+    <string name="textViewSecondTitle">Second Activity</string>
+    <string name="buttonSecond">Second button</string>
+    <string name="textViewThirdTitle">Third Activity</string>
+</resources>
